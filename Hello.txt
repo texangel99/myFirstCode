@@ -1,5 +1,0 @@
-Hello world!
-java is a famous and demanding programming language in the world
-
-java is a paltform independent why because it uses jvm stands for java virtual machine
-it converts source code to  byte code which is indermediate version 
